@@ -1,5 +1,33 @@
 # 💫 About Me:
-Hi 👋, I'm Somil Dholakia  <br><br>🎓 BSc Computer Science Student (Mumbai)  <br>📈 CGPA: 8.45 → 8.83 → 9.18 (Consistent Growth)  <br>💻 Full Stack Developer (MERN Stack)  <br><br>🚀 About Me  <br>- Passionate about building real-world web applications  <br>- Strong in backend development (Node.js, Express, MongoDB)  <br>- Currently improving Data Structures & Algorithms  <br>- Sharing my journey with an 80+ day LinkedIn learning streak  <br><br>🛠 Tech Stack  <br>- Languages: JavaScript, C++  <br>- Frontend: HTML, CSS, Bootstrap, EJS, React  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB  <br>- Concepts: MVC, REST APIs, Authentication, Authorization  <br><br>📌 Projects  <br>- WanderSite – Full Stack Travel Listing Platform  <br>- Weather App – Real-Time Weather Application  <br>- Leads Tracker – Chrome Extension  <br>- Unit Converter – JavaScript DOM Project  <br><br>📈 Current Focus  <br>- DSA + Problem Solving  <br>- System Design Basics  <br>- Building Scalable MERN Applications  
+# 💫 About Me:
+Hi 👋, I'm Somil Dholakia <br><br>
+
+🎓 BSc Computer Science Student (Mumbai) <br>
+📈 CGPA: 8.45 → 8.83 → 9.18 (Consistent Growth) <br>
+💻 Full Stack Developer (MERN Stack) <br><br>
+
+🚀 Passionate about building real-world web applications <br>
+⚙️ Strong in backend development (Node.js, Express, MongoDB) <br>
+📚 Currently improving Data Structures & Algorithms <br>
+🔥 Maintaining an 80+ day LinkedIn learning streak <br><br>
+
+🛠 Tech Stack <br>
+- JavaScript, C++ <br>
+- React, HTML, CSS, Bootstrap, EJS <br>
+- Node.js, Express.js <br>
+- MongoDB <br>
+- MVC, REST APIs, Authentication & Authorization <br><br>
+
+📌 Projects <br>
+- WanderSite – Full Stack Travel Listing Platform <br>
+- Weather App – Real-Time Weather Application <br>
+- Leads Tracker – Chrome Extension <br>
+- Unit Converter – JavaScript DOM Project <br><br>
+
+📈 Current Focus <br>
+- DSA & Problem Solving <br>
+- System Design Basics <br>
+- Building Scalable MERN Applications <br> 
 
 
 ## 🌐 Socials:
