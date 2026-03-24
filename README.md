@@ -1,10 +1,13 @@
-<!-- 🔥 Typing Intro -->
-<h1 align="center">
-  Hi 👋, I'm Somil Dholakia
-</h1>
+<!-- 🔥 Animated Intro -->
+<h1 align="center">Hi 👋, I'm Somil Dholakia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F72585&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Scalable+Web+Apps+🚀" />
+</p>
+
+<!-- 🔥 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=somildholakia&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -15,31 +18,42 @@
 💻 Full Stack Developer (MERN Stack) <br><br>
 
 🚀 Passionate about building real-world applications <br>
-⚙️ Strong in Node.js, Express & MongoDB <br>
+⚙️ Strong in backend (Node.js, Express, MongoDB) <br>
 📚 Currently learning DSA & System Design <br>
 🔥 80+ Days LinkedIn Learning Streak <br>
 
 ---
 
 # 🛠 Tech Stack:
-<p>
-<img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,html,css,bootstrap,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,html,css,bootstrap,git,github" />
 </p>
 
 ---
 
 # 📌 Featured Projects:
-### 🌍 WanderSite
-- Full Stack Travel Listing Platform  
-- Auth, CRUD, MVC Architecture  
-- Node.js, Express, MongoDB  
 
-### 🌦️ Weather App
-- Real-time weather data using API  
-- Built with React  
+## 🌍 WanderSite  
+🔗 **Live:** https://practice-project-p5ge.onrender.com/listings  
+🔗 **GitHub:** https://github.com/somildholakia/wandersite  
+- Full-stack travel listing platform  
+- Authentication, authorization & CRUD  
+- MVC architecture + middleware  
 
-### 📌 Leads Tracker
-- Chrome Extension for saving tabs  
+---
+
+## 🌦️ Weather App  
+🔗 **Live:** https://weather-app-react-2-f4qp.onrender.com/ 
+🔗 **GitHub:** https://github.com/somildholakia/weather-app  
+- React app with real-time weather API  
+- Dynamic UI updates  
+
+---
+
+## 📌 Leads Tracker  
+🔗 **GitHub:** https://github.com/somildholakia/leads-tracker  
+- Chrome extension to save browser tabs  
+- Uses localStorage for persistence  
 
 ---
 
@@ -54,5 +68,16 @@
 
 ---
 
+# 🏆 Achievements:
+- 📈 Consistent GitHub + LinkedIn Growth  
+- 🔥 80+ Days Public Learning Streak  
+- 🚀 Built Multiple Full Stack Projects  
+
+---
+
 # 📫 Connect With Me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/somilsomi)
+<p align="center">
+  <a href="https://linkedin.com/in/somilsomi">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
