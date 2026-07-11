@@ -30,6 +30,7 @@
 - Semester 1: **8.45 CGPA**
 - Semester 2: **8.83 CGPA**
 - Semester 3: **9.18 CGPA**
+- Semester 3: **9.36 CGPA**
 
 💻 MERN Stack Developer passionate about building scalable web applications.
 
